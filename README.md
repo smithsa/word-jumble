@@ -2,7 +2,7 @@
 
 Word Jumble is a variation of the game WordTwist. Objective is to find all possible words from a finite number of scrambled letters. Users create as many words as they can with the given letters on the screen and you are allowed to use a word more than once. The score of the game is compiled by the length of the word the user spells, the longer the word the more points the user will recieve. You can see a demo of gameplay in the [Usage](#usage) section.
 
-<img width="693" alt="word jumble screenshot" src="https://user-images.githubusercontent.com/1827606/46248788-aa7b4d00-c3e3-11e8-951c-a71ebebb95c9.png">
+<img width="60%" alt="word jumble screenshot" src="https://user-images.githubusercontent.com/1827606/46248788-aa7b4d00-c3e3-11e8-951c-a71ebebb95c9.png">
 
 ## Prerequisites
 *	[Python 2.7](https://www.python.org/)
